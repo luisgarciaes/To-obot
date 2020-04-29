@@ -1,0 +1,25 @@
+{
+  "name": "toniobot",
+  "version": "1.0.0",
+  "description": "First version of toniobot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BrandonVG/To-obot.git"
+  },
+  "author": "BrandonVG",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BrandonVG/To-obot/issues"
+  },
+  "homepage": "https://github.com/BrandonVG/To-obot#readme",
+  "dependencies": {
+    "discord.io": "https://github.com/woor/discord.io/tarball/gateway_v6",
+    "discord.js": "^12.2.0",
+    "eslint": "^6.8.0",
+    "winston": "^3.2.1"
+  }
+}
